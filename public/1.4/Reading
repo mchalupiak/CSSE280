@@ -1,0 +1,7 @@
+1. A series of elements
+2. An element consisting of the h1 tag and the content 'Machine Learning Workshop'
+3. Yes, you can nest elements
+4. <br>, <img>, <input>, <link>
+5. <video>, <picture>, <iframe>
+6. In the opening tag after the tag type
+7. src, alt, ismap
