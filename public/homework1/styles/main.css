@@ -1,0 +1,68 @@
+body {
+    background-color: #000000;
+}
+
+h2 {
+     font-family: Homemade Apple;
+ }
+
+.button-group {
+    text-align: center;
+}
+
+.button-group > button {
+    font-size: 1.25em;
+    margin-top: 30px;
+    margin: 30px 15px 10px 15px;
+    background-color: #800000;
+    text-transform: none;
+    font-family: Homemade Apple;
+}
+
+.navbar-brand {
+    font-family: Homemade Apple;
+}
+
+.navbar {
+    background-color: #800000;
+}
+
+#counterText {
+    color: black;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: Homemade Apple;
+    font-size: 4em;
+    text-align: center;
+}
+
+#colorButtons > button {
+    margin: 2px;
+    border: none;
+}
+
+#colorBox {
+    width: 200px;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: green;
+    color: white;
+    font-family: Homemade Apple;
+    text-align: center;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#green {
+    background-color: green;
+}
+
+#red {
+    background-color: red;
+}
+
+#purple {
+    background-color: purple;
+}
