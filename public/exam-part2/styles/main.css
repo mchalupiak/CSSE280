@@ -1,0 +1,22 @@
+#text {
+    padding: 20px;
+    max-width: 300px;
+}
+
+.font {
+    font-size: 1.5em;
+    font-family: Homemade Apple;
+}
+
+.navbar {
+    box-shadow: none;
+}
+
+.container {
+    max-width: 800px !important;
+}
+
+#change {
+    font-family: Homemade Apple;
+    text-transform: none;
+}
