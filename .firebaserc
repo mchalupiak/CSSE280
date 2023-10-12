@@ -1,5 +1,21 @@
 {
   "projects": {
     "default": "mchalupiak-280"
-  }
+  },
+  "targets": {
+    "mchalupiak-280": {
+      "hosting": {
+        "ttt": [
+          "280-ttt"
+        ],
+        "ttt-oop": [
+          "280-ttt-oop"
+        ],
+        "main": [
+          "mchalupiak-280"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
